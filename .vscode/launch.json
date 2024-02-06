@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-EmailNotificationMicroserviceApplication<EmailNotificationMicroservice>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.appsdeveloperblog.emailnotification.EmailNotificationMicroserviceApplication",
+      "projectName": "EmailNotificationMicroservice",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
